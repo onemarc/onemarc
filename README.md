@@ -30,8 +30,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=onemarc&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onemarc&theme=prussian&hide_border=true" alt="onemarc's Streak" width="650" />
+</p>
 
 ###
