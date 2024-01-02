@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://i.ibb.co/n6SZcbz/bonf.gif"  />
+  <img height="300" src="https://i.ibb.co/n6SZcbz/bonf.gif"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/hWcPQBn/banner.png" alt="banner" border="0"  />
+  <img height="300" src="https://i.ibb.co/hWcPQBn/banner.png" alt="banner" border="0"  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=One&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=One&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
 </div>
 
 ###
