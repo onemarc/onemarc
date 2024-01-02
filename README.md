@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=One&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=onemarc&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
 </div>
 
 ###
