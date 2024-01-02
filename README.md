@@ -8,10 +8,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/One/One/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🧑‍💻  About Me</h3>
 
 ###
