@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img height="270" src="https://i.ibb.co/hWcPQBn/banner.png" alt="banner" border="0"  />
+  <img height="260" src="https://i.ibb.co/hWcPQBn/banner.png" alt="banner" border="0"  />
 </div>
 
 ###
