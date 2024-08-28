@@ -30,7 +30,7 @@
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscodecommunity-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecp-dark.svg" width="50"></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aws-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/aws.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
 </div>
